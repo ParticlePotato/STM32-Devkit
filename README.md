@@ -1,5 +1,5 @@
 # STM32G474RETx DevKit
-
+![3D_View](Pictures/3D_View.png)
 A compact, 40-pin breadboard-friendly development board based on the high-performance **STM32G474RETx** microcontroller (LQFP64). Designed for advanced analog applications, digital power control, and versatile prototyping.
 
 ## 🚀 Key Features
@@ -9,6 +9,7 @@ A compact, 40-pin breadboard-friendly development board based on the high-perfor
 * **Hardware Safe:** Integrated input diode protection and power state LED indicator
 * **Debug Support:** Standard SWD interface header (SWDIO, SWCLK, SWO, NRST)
 * **User Control:** Onboard Reset button (SW1) and Boot selector (SW2)
+![Shematic](Pictures/Shematic.png)
 
 ## 🛠️ Hardware Design Architecture
 
@@ -20,6 +21,7 @@ A compact, 40-pin breadboard-friendly development board based on the high-perfor
 ### 2. Clock & System Controls
 * **Main Clock (HSE):** Driven by an external 16 MHz crystal oscillator setup with 18pF load capacitors for stable system timing.
 * **Boot Configuration:** BOOT0 pin is tied to GND via a 10kΩ resistor for default Flash booting, accessible via a dedicated switch (SW2).
+![PCB](Pictures/PCB.png)
 
 ## 📌 Header Pinout Layout
 
