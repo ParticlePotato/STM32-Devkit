@@ -48,7 +48,7 @@ A compact, 40-pin breadboard-friendly development board based on the high-perfor
 ### Connector J6 (Right Header)
 * **Pin 1:** +3V3
 * **Pins 2:** GND
-* **Pins 3:** +5V
+* **Pins 3:** +5V 
 * **Pin 4:** UART/ADC/TIM
 * **Pins 5:** UART/TIM
 * **Pins 6:** I2C/TIM
