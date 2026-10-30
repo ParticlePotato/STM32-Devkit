@@ -21,6 +21,7 @@ A compact, 40-pin breadboard-friendly development board based on the high-perfor
 ### 2. Clock & System Controls
 * **Main Clock (HSE):** Driven by an external 16 MHz crystal oscillator setup with 18pF load capacitors for stable system timing.
 * **Boot Configuration:** BOOT0 pin is tied to GND via a 10kΩ resistor for default Flash booting, accessible via a dedicated switch (SW2).
+
 ![PCB](Pictures/PCB.png)
 
 ## 📌 Header Pinout Layout
