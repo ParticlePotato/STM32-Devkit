@@ -4,6 +4,7 @@ A compact, 40-pin breadboard-friendly development board based on the high-perfor
 
 ## 🚀 Key Features
 * **MCU:** STM32G474RETx (Arm® Cortex®-M4 with FPU, 170 MHz, 512 KB Flash)
+* **Crystal:** 16Mhz
 * **Form Factor:** 40-pin dual-row header layout (2x20 pins)
 * **Power Supply:** Dual rail design (+5V and +3V3 LDO output) via Micro USB or external pins
 * **Hardware Safe:** Integrated input diode protection and power state LED indicator
